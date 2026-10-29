@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Dynamic Programming
 |  |
@@ -13,6 +14,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Matrix
 |  |
@@ -26,8 +28,29 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/0005-longest-palindromic-substring) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Manacher
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/0005-longest-palindromic-substring) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
