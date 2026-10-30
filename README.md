@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Dynamic Programming
@@ -66,4 +67,12 @@
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Hash Table
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
