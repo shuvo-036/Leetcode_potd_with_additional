@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3665-twisted-mirror-path-count](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/3665-twisted-mirror-path-count) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -78,4 +79,8 @@
 |  |
 | ------- |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Math
+|  |
+| ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/0453-minimum-moves-to-equal-array-elements) |
 <!---LeetCode Topics End-->
