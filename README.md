@@ -8,6 +8,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3665-twisted-mirror-path-count](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/3665-twisted-mirror-path-count) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Dynamic Programming
@@ -85,6 +86,7 @@
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
 |  |
 | ------- |
