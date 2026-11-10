@@ -9,6 +9,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3665-twisted-mirror-path-count](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -17,6 +18,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/0005-longest-palindromic-substring) |
 | [3665-twisted-mirror-path-count](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Bit Manipulation
 |  |
