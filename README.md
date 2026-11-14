@@ -9,6 +9,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/3364-minimum-positive-sum-subarray) |
 | [3665-twisted-mirror-path-count](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3364-minimum-positive-sum-subarray](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/3364-minimum-positive-sum-subarray) |
 ## Math
 |  |
 | ------- |
@@ -101,4 +103,8 @@
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
