@@ -10,6 +10,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3665-twisted-mirror-path-count](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -88,11 +89,13 @@
 | ------- |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3364-minimum-positive-sum-subarray](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Math
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
 |  |
@@ -107,4 +110,12 @@
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/3364-minimum-positive-sum-subarray) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/shuvo-036/Leetcode_potd_with_additional/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
